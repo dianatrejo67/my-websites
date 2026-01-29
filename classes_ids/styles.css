@@ -1,0 +1,47 @@
+.city{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(74, 7, 150);
+}
+
+#London{
+    background-color: rgb(219, 192, 245);
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+
+#Paris{
+    background-color: rgb(204, 166, 240);
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+
+#Tokyo{
+    background-color:  rgb(245, 192, 236);
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+
+#LondonP{
+    background-color: rgb(248, 165, 255);
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+
+#ParisP{
+    background-color:  rgb(248, 165, 255);
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+
+#TokyoP{
+    background-color:  rgb(248, 165, 255);
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}

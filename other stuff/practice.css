@@ -1,0 +1,7 @@
+table, th, td{
+    border:1px solid black;
+}
+form{
+    background-color: antiquewhite;
+    color: rgb(38, 0, 255);
+}
