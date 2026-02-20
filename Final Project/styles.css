@@ -37,3 +37,27 @@ h1 {
 .navbar a:hover {
     background-color: rgb(176, 176, 182);
 }
+
+table {
+  margin: 40px auto;
+  background-color: rgba(219, 162, 219, 0.699);   /* table background color */
+  border-collapse: collapse;
+  min-width: 400px;
+}
+
+/* Borders for table, header, and data cells */
+table, th, td {
+  border: 1px solid rgb(255, 255, 255);
+}
+
+/* Table header styling */
+th {
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+/* Table cell styling */
+td {
+  padding: 8px 12px;
+  text-align: left;
+}
